@@ -1,17 +1,15 @@
 
-# Dashboard Apontamentos
+# Dashboards
+
+Todos os projetos abaixo foram construídos utilizando python. 
+
+## Dashboard Apontamentos
 
 Esse dashboard tem o objetivo de registrar os apontamentos realizados em uma empresa que presta suporte tanto presencial quanto online.
-
 Visualize aqui: https://felipe-machado-dash-apontamentos.onrender.com/
 
 
-## Descrição
-
-Esse projeto foi construído utilizando python com os gráficos utilizando plotly. 
-
-
-## Funcionalidades
+### Funcionalidades
 
 - Temas dark e light
 - Preview de apontamentos dos operadores
@@ -22,7 +20,7 @@ Esse projeto foi construído utilizando python com os gráficos utilizando plotl
 - Gráfico de Pareto nas empresas que possuem mais apontamentos
 
 
-## Screenshots
+### Screenshots
 
 
 ![dash](https://github.com/getfelipe/Dashboard-Apontamentos/blob/main/dash-apontamentos.png)
@@ -30,15 +28,13 @@ Esse projeto foi construído utilizando python com os gráficos utilizando plotl
 
 
 
-# Support Dash
+## Support Dash
 
 Dashboard que registra os chamados dos clientes, empresas que mais solicitam, horários de pico, últimos atendimentos e comparações entre as empresas.
-
-Projeto realizado em python.
 Acesse aqui: https://felipe-machado-dash-suporte.onrender.com/
 
 
-## Screenshots
+### Screenshots
 
 ![App Screenshot](https://github.com/getfelipe/dash_suporte/blob/main/part1.png)
 
@@ -47,7 +43,7 @@ Acesse aqui: https://felipe-machado-dash-suporte.onrender.com/
 
 
 
-# Rocket Dash
+## Rocket Dash
 
 Dashboard que centraliza os dados de todos os canais de comunicação da empresa, resumindo e enfatizandos os dados mais importantes em uma única tela.
 
@@ -56,16 +52,13 @@ Confira aqui: https://felipe-machado-dash-sprint.onrender.com
 Projeto realizado em python.
 
 
-## Screenshots
+### Screenshots
 
 - Tema 1
 ![App Screenshot](https://github.com/getfelipe/Dash-Sprint/blob/main/dash-theme2.png)
 
 - Tema 2
 ![App Screenshot](https://github.com/getfelipe/Dash-Sprint/blob/main/dash-theme1.png)
-
-
-
 
 
 
