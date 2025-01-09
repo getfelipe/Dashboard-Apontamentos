@@ -27,7 +27,50 @@ Esse projeto foi construído utilizando python com os gráficos utilizando plotl
 
 ![dash](https://github.com/getfelipe/Dashboard-Apontamentos/blob/main/dash-apontamentos.png)
 
-## Autores
+
+
+
+# Support Dash
+
+Dashboard que registra os chamados dos clientes, empresas que mais solicitam, horários de pico, últimos atendimentos e comparações entre as empresas.
+
+Projeto realizado em python.
+Acesse aqui: https://felipe-machado-dash-suporte.onrender.com/
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/getfelipe/dash_suporte/blob/main/part1.png)
+
+![App Screenshot](https://github.com/getfelipe/dash_suporte/blob/main/part2.png)
+
+
+
+
+# Rocket Dash
+
+Dashboard que centraliza os dados de todos os canais de comunicação da empresa, resumindo e enfatizandos os dados mais importantes em uma única tela.
+
+Confira aqui: https://felipe-machado-dash-sprint.onrender.com
+
+Projeto realizado em python.
+
+
+## Screenshots
+
+- Tema 1
+![App Screenshot](https://github.com/getfelipe/Dash-Sprint/blob/main/dash-theme2.png)
+
+- Tema 2
+![App Screenshot](https://github.com/getfelipe/Dash-Sprint/blob/main/dash-theme1.png)
+
+
+
+
+
+
+
+## Autor
 
 Design, Interações, Banco de Dados, Gráficos e afins produzidos por
 - [@getfelipe](https://github.com/getfelipe)
