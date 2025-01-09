@@ -23,7 +23,7 @@ Visualize aqui: https://felipe-machado-dash-apontamentos.onrender.com/
 ### Screenshots
 
 
-![dash](https://github.com/getfelipe/Dashboard-Apontamentos/blob/main/dash-apontamentos.png)
+![dash](https://github.com/getfelipe/Dashboards/blob/main/dash-apontamentos.png)
 
 
 
@@ -36,9 +36,9 @@ Acesse aqui: https://felipe-machado-dash-suporte.onrender.com/
 
 ### Screenshots
 
-![App Screenshot](https://github.com/getfelipe/dash_suporte/blob/main/part1.png)
+![App Screenshot](https://github.com/getfelipe/Dashboards/blob/main/part1.png)
 
-![App Screenshot](https://github.com/getfelipe/dash_suporte/blob/main/part2.png)
+![App Screenshot](https://github.com/getfelipe/Dashboards/blob/main/part2.png)
 
 
 
@@ -55,10 +55,10 @@ Projeto realizado em python.
 ### Screenshots
 
 - Tema 1
-![App Screenshot](https://github.com/getfelipe/Dash-Sprint/blob/main/dash-theme2.png)
+![App Screenshot](https://github.com/getfelipe/Dashboards/blob/main/dash-theme2.png)
 
 - Tema 2
-![App Screenshot](https://github.com/getfelipe/Dash-Sprint/blob/main/dash-theme1.png)
+![App Screenshot](https://github.com/getfelipe/Dashboards/blob/main/dash-theme1.png)
 
 
 
